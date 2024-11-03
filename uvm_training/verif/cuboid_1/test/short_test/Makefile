@@ -6,7 +6,7 @@ PWD := $(shell pwd)
 DATE := $(shell date '+%Y_%m%d_%H%M_%S')
 
 TEST_DIR := $(shell pwd)
-UVM_TRAINING := /home/hamza/git_repo/
+UVM_TRAINING := /home/baz/Documents/GitHub/uvm/
 COMP_DIR := $(UVM_TRAINING)verif/cuboid_1/script/
 SUB_DIRS := $(shell ls $(REG_DIR) )
 
